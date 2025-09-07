@@ -63,5 +63,31 @@
     "9": "Compassionate, idealistic, and humanitarian.",
     "11": "Born with heightened intuition and inspiration.",
     "22": "Potential for practical genius and great achievements."
-  }
+  },
+  "maturity": {
+    "1": "Maturity brings independence and self-reliance, achieving personal goals through leadership.",
+    "2": "Maturity focuses on diplomacy, cooperation, and forming harmonious relationships.",
+    "3": "Maturity encourages creative self-expression and joyful communication.",
+    "4": "Maturity emphasizes discipline, building stability, and practical accomplishment.",
+    "5": "Maturity brings adaptability, embracing change and seeking freedom.",
+    "6": "Maturity focuses on responsibility, nurturing, and service to others.",
+    "7": "Maturity guides toward wisdom, introspection, and spiritual insight.",
+    "8": "Maturity brings practical mastery, ambition, and material achievement.",
+    "9": "Maturity emphasizes compassion, humanitarian work, and vision for others.",
+    "11": "Maturity encourages spiritual inspiration and teaching, harnessing intuition.",
+    "22": "Maturity drives mastery of large-scale achievements, building lasting structures."
+},
+"balance": {
+    "1": "Balance suggests using independence wisely, channeling energy into constructive leadership.",
+    "2": "Balance emphasizes diplomacy and gentle influence in relationships.",
+    "3": "Balance encourages expressing creativity in a measured and effective way.",
+    "4": "Balance focuses on stability and reliability in all actions.",
+    "5": "Balance guides adventurous energy toward productive change.",
+    "6": "Balance encourages nurturing others while maintaining personal responsibility.",
+    "7": "Balance emphasizes reflection, thoughtfulness, and careful planning.",
+    "8": "Balance channels ambition toward structured and ethical achievement.",
+    "9": "Balance directs compassion and vision into meaningful action.",
+    "11": "Balance promotes spiritual insight tempered with practical application.",
+    "22": "Balance helps transform visionary plans into tangible results."
+}
 }
