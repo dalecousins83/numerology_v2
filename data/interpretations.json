@@ -1,0 +1,67 @@
+{
+  "expression": {
+    "1": "Independent, pioneering, original; thrives when leading and creating.",
+    "2": "Diplomatic, cooperative, peacemaker; excels in partnership and harmony.",
+    "3": "Expressive, creative, joyful; natural communicator with artistic flair.",
+    "4": "Practical, disciplined, reliable; strong builder and systematizer.",
+    "5": "Adventurous, versatile, curious; craves freedom and change.",
+    "6": "Responsible, nurturing, protective; drawn to service, family, and beauty.",
+    "7": "Analytical, introspective, spiritual; seeker of truth and wisdom.",
+    "8": "Ambitious, executive, powerful; focused on material success and authority.",
+    "9": "Compassionate, humanitarian, visionary; drawn to global service.",
+    "11": "Inspired teacher, highly intuitive, spiritual messenger.",
+    "22": "Master builder; capable of large-scale achievement with practical vision."
+  },
+  "soul_urge": {
+    "1": "Desire for independence, recognition, and self-determination.",
+    "2": "Yearns for companionship, harmony, and deep connection.",
+    "3": "Craves joy, creativity, and emotional expression.",
+    "4": "Seeks order, security, and stable foundations.",
+    "5": "Longs for freedom, travel, and new experiences.",
+    "6": "Wants love, responsibility, and to be of service.",
+    "7": "Hungers for knowledge, solitude, and inner truth.",
+    "8": "Wishes for success, power, and material mastery.",
+    "9": "Aspires to universal love, compassion, and giving.",
+    "11": "Seeks spiritual growth, illumination, and to inspire others.",
+    "22": "Drives toward building lasting legacies and structures of value."
+  },
+  "personality": {
+    "1": "Appears confident, assertive, and direct.",
+    "2": "Comes across as gentle, cooperative, and considerate.",
+    "3": "Seen as lively, witty, and expressive.",
+    "4": "Presents as steady, disciplined, and dependable.",
+    "5": "Appears adventurous, adaptable, and energetic.",
+    "6": "Seen as caring, responsible, and artistic.",
+    "7": "Appears thoughtful, reserved, and intellectual.",
+    "8": "Presents as authoritative, ambitious, and commanding.",
+    "9": "Seen as generous, compassionate, and broad-minded.",
+    "11": "Projects spiritual sensitivity, charisma, and vision.",
+    "22": "Appears capable, pragmatic, and visionary in scope."
+  },
+  "life_path": {
+    "1": "A journey of independence, leadership, and originality.",
+    "2": "A path of partnership, diplomacy, and sensitivity.",
+    "3": "A life of creativity, joy, and communication.",
+    "4": "A road of discipline, building, and steady progress.",
+    "5": "A path of freedom, change, and exploration.",
+    "6": "A life of responsibility, love, and service.",
+    "7": "A journey of wisdom, study, and spiritual seeking.",
+    "8": "A path of power, authority, and material mastery.",
+    "9": "A life of compassion, generosity, and service to humanity.",
+    "11": "A path of illumination, inspiration, and higher awareness.",
+    "22": "A destiny of practical mastery, building lasting works."
+  },
+  "birthday": {
+    "1": "Born to be pioneering and independent.",
+    "2": "Naturally gentle, tactful, and cooperative.",
+    "3": "Gifted with creativity and lively self-expression.",
+    "4": "Practical, stable, and hardworking by nature.",
+    "5": "Adventurous, restless, and freedom-loving.",
+    "6": "Caring, responsible, and protective of others.",
+    "7": "Introspective, thoughtful, and drawn to knowledge.",
+    "8": "Ambitious, capable, and goal-oriented.",
+    "9": "Compassionate, idealistic, and humanitarian.",
+    "11": "Born with heightened intuition and inspiration.",
+    "22": "Potential for practical genius and great achievements."
+  }
+}
