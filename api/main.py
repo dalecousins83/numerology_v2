@@ -1,9 +1,15 @@
 from fastapi import FastAPI
-from api import api_router
+from fastapi import APIRouter
+from .routes import numerology, users
 
 app = FastAPI(title="Numerology Service")
 
-# include routes from api/__init__.py
+# Define router here
+api_router = APIRouter()
+api_router.include_router(numerology.router, prefix="/numerology", tags=["numerology"])
+api_router.include_router(users.router, prefix="/users", tags=["users"])
+
+# Mount router
 app.include_router(api_router)
 
 
