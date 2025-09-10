@@ -3,7 +3,21 @@ from .numbers import name_to_number, date_to_number, reduce_number
 def build_chart(full_name: str, birth_day: int, birth_month: int, birth_year: int) -> dict:
     """Generate full numerology chart based on Juno Jordan system."""
 
+
+
+    return chart
+
+from datetime import date
+from .numbers import reduce_number, date_to_number, name_to_number
+
+def build_chart(name: str, dob: date, today: date | None = None) -> dict:
+    """
+    Build a numerology chart for a given name and date of birth.
+    Optionally include today's date for personal year/month/day cycles.
+    """
     chart = {}
+
+    # Core numbers
     chart["life_path"] = date_to_number(birth_day, birth_month, birth_year)
     chart["expression"] = name_to_number(full_name)
     chart["soul_urge"] = name_to_number(full_name, vowels_only=True)
@@ -11,5 +25,30 @@ def build_chart(full_name: str, birth_day: int, birth_month: int, birth_year: in
     chart["birthday"] = reduce_number(birth_day)
     chart["maturity"] = reduce_number(chart["life_path"] + chart["expression"])
     chart["balance"] = reduce_number(name_to_number(full_name[0])) if full_name else None
+    
+    # Optional cycles
+    if today is not None:
+        chart.update(calculate_personal_cycles(dob, today))
 
     return chart
+
+
+def calculate_personal_cycles(dob: date, today: date) -> dict:
+    """
+    Calculate personal year, month, and day numbers.
+    """
+    cycles = {}
+
+    # --- Personal Year ---
+    personal_year_base = dob.month + dob.day + today.year
+    cycles["personal_year"] = reduce_number(personal_year_base)
+
+    # --- Personal Month ---
+    personal_month_base = cycles["personal_year"] + today.month
+    cycles["personal_month"] = reduce_number(personal_month_base)
+
+    # --- Personal Day ---
+    personal_day_base = cycles["personal_month"] + today.day
+    cycles["personal_day"] = reduce_number(personal_day_base)
+
+    return cycles
