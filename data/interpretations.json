@@ -1,69 +1,74 @@
 {
-  "expression": {
-    "1": "Independent, pioneering, original; thrives when leading and creating.",
-    "2": "Diplomatic, cooperative, peacemaker; excels in partnership and harmony.",
-    "3": "Expressive, creative, joyful; natural communicator with artistic flair.",
-    "4": "Practical, disciplined, reliable; strong builder and systematizer.",
-    "5": "Adventurous, versatile, curious; craves freedom and change.",
-    "6": "Responsible, nurturing, protective; drawn to service, family, and beauty.",
-    "7": "Analytical, introspective, spiritual; seeker of truth and wisdom.",
-    "8": "Ambitious, executive, powerful; focused on material success and authority.",
-    "9": "Compassionate, humanitarian, visionary; drawn to global service.",
-    "11": "Inspired teacher, highly intuitive, spiritual messenger.",
-    "22": "Master builder; capable of large-scale achievement with practical vision."
-  },
-  "soul_urge": {
-    "1": "Desire for independence, recognition, and self-determination.",
-    "2": "Yearns for companionship, harmony, and deep connection.",
-    "3": "Craves joy, creativity, and emotional expression.",
-    "4": "Seeks order, security, and stable foundations.",
-    "5": "Longs for freedom, travel, and new experiences.",
-    "6": "Wants love, responsibility, and to be of service.",
-    "7": "Hungers for knowledge, solitude, and inner truth.",
-    "8": "Wishes for success, power, and material mastery.",
-    "9": "Aspires to universal love, compassion, and giving.",
-    "11": "Seeks spiritual growth, illumination, and to inspire others.",
-    "22": "Drives toward building lasting legacies and structures of value."
-  },
-  "personality": {
-    "1": "Appears confident, assertive, and direct.",
-    "2": "Comes across as gentle, cooperative, and considerate.",
-    "3": "Seen as lively, witty, and expressive.",
-    "4": "Presents as steady, disciplined, and dependable.",
-    "5": "Appears adventurous, adaptable, and energetic.",
-    "6": "Seen as caring, responsible, and artistic.",
-    "7": "Appears thoughtful, reserved, and intellectual.",
-    "8": "Presents as authoritative, ambitious, and commanding.",
-    "9": "Seen as generous, compassionate, and broad-minded.",
-    "11": "Projects spiritual sensitivity, charisma, and vision.",
-    "22": "Appears capable, pragmatic, and visionary in scope."
-  },
   "life_path": {
-    "1": "A journey of independence, leadership, and originality.",
-    "2": "A path of partnership, diplomacy, and sensitivity.",
-    "3": "A life of creativity, joy, and communication.",
-    "4": "A road of discipline, building, and steady progress.",
-    "5": "A path of freedom, change, and exploration.",
-    "6": "A life of responsibility, love, and service.",
-    "7": "A journey of wisdom, study, and spiritual seeking.",
-    "8": "A path of power, authority, and material mastery.",
-    "9": "A life of compassion, generosity, and service to humanity.",
-    "11": "A path of illumination, inspiration, and higher awareness.",
-    "22": "A destiny of practical mastery, building lasting works."
+    "1": "Independent, pioneering, and ambitious. Life is about leadership and forging your own path.",
+    "2": "Diplomatic, cooperative, and sensitive. Life is about building harmony with others.",
+    "3": "Creative, expressive, and optimistic. Life is about communication and joy.",
+    "4": "Practical, disciplined, and reliable. Life is about building solid foundations.",
+    "5": "Adventurous, adaptable, and freedom-loving. Life is about embracing change.",
+    "6": "Responsible, nurturing, and compassionate. Life is about service and family.",
+    "7": "Introspective, analytical, and spiritual. Life is about seeking truth and wisdom.",
+    "8": "Ambitious, authoritative, and material-focused. Life is about mastery of power.",
+    "9": "Humanitarian, idealistic, and generous. Life is about serving the greater good.",
+    "11": "Visionary, intuitive, and inspiring. Life is about spiritual illumination.",
+    "22": "Practical dreamer, master builder. Life is about turning vision into lasting impact."
   },
+
+  "expression": {
+    "1": "You are a natural leader, destined to be independent and self-reliant.",
+    "2": "You thrive in partnerships, diplomacy, and teamwork.",
+    "3": "You express yourself through creativity, humor, and joy.",
+    "4": "You are dependable, hardworking, and thrive on order.",
+    "5": "You are versatile, adventurous, and thrive on freedom.",
+    "6": "You are nurturing, responsible, and bring harmony to others.",
+    "7": "You are reflective, thoughtful, and drawn to spiritual pursuits.",
+    "8": "You are ambitious, authoritative, and effective in business.",
+    "9": "You are compassionate, generous, and motivated to help humanity.",
+    "11": "You are spiritually inspired, intuitive, and a natural teacher.",
+    "22": "You are capable of achieving great things with vision and discipline."
+  },
+
+  "soul_urge": {
+    "1": "At heart, you long for independence and self-expression.",
+    "2": "You deeply desire harmony, love, and companionship.",
+    "3": "Your soul craves joy, creativity, and self-expression.",
+    "4": "You seek order, stability, and security at a soul level.",
+    "5": "You yearn for freedom, adventure, and new experiences.",
+    "6": "You are driven by a need to nurture, serve, and love.",
+    "7": "Your inner drive is to seek wisdom and spiritual truth.",
+    "8": "You desire power, recognition, and material success.",
+    "9": "You long to serve humanity and live with compassion.",
+    "11": "You are motivated by inspiration, intuition, and higher purpose.",
+    "22": "You are driven to build lasting achievements that help others."
+  },
+
+  "personality": {
+    "1": "You come across as confident, direct, and independent.",
+    "2": "You appear gentle, cooperative, and diplomatic.",
+    "3": "You are seen as creative, fun, and expressive.",
+    "4": "You seem disciplined, reliable, and grounded.",
+    "5": "You come across as adaptable, exciting, and adventurous.",
+    "6": "You appear caring, responsible, and trustworthy.",
+    "7": "You are seen as thoughtful, mysterious, and wise.",
+    "8": "You come across as ambitious, successful, and authoritative.",
+    "9": "You appear compassionate, idealistic, and humanitarian.",
+    "11": "You radiate intuition, charisma, and spiritual awareness.",
+    "22": "You come across as visionary, practical, and influential."
+  },
+
   "birthday": {
-    "1": "Born to be pioneering and independent.",
-    "2": "Naturally gentle, tactful, and cooperative.",
-    "3": "Gifted with creativity and lively self-expression.",
-    "4": "Practical, stable, and hardworking by nature.",
-    "5": "Adventurous, restless, and freedom-loving.",
-    "6": "Caring, responsible, and protective of others.",
-    "7": "Introspective, thoughtful, and drawn to knowledge.",
-    "8": "Ambitious, capable, and goal-oriented.",
-    "9": "Compassionate, idealistic, and humanitarian.",
-    "11": "Born with heightened intuition and inspiration.",
-    "22": "Potential for practical genius and great achievements."
+    "1": "Independent and pioneering spirit.",
+    "2": "Gentle, sensitive, and cooperative.",
+    "3": "Joyful, expressive, and creative.",
+    "4": "Practical, disciplined, and structured.",
+    "5": "Adventurous, versatile, and curious.",
+    "6": "Nurturing, loving, and responsible.",
+    "7": "Introspective, wise, and analytical.",
+    "8": "Ambitious, powerful, and achievement-focused.",
+    "9": "Compassionate, idealistic, and generous.",
+    "11": "Highly intuitive and inspirational.",
+    "22": "Practical visionary and master builder."
   },
+
   "maturity": {
     "1": "Maturity brings independence and self-reliance, achieving personal goals through leadership.",
     "2": "Maturity focuses on diplomacy, cooperation, and forming harmonious relationships.",
@@ -76,8 +81,9 @@
     "9": "Maturity emphasizes compassion, humanitarian work, and vision for others.",
     "11": "Maturity encourages spiritual inspiration and teaching, harnessing intuition.",
     "22": "Maturity drives mastery of large-scale achievements, building lasting structures."
-},
-"balance": {
+  },
+
+  "balance": {
     "1": "Balance suggests using independence wisely, channeling energy into constructive leadership.",
     "2": "Balance emphasizes diplomacy and gentle influence in relationships.",
     "3": "Balance encourages expressing creativity in a measured and effective way.",
@@ -89,5 +95,47 @@
     "9": "Balance directs compassion and vision into meaningful action.",
     "11": "Balance promotes spiritual insight tempered with practical application.",
     "22": "Balance helps transform visionary plans into tangible results."
-}
+  },
+
+  "personal_year": {
+    "1": "A year of new beginnings and fresh starts. Time to take initiative and plant seeds.",
+    "2": "A year of patience, cooperation, and building relationships.",
+    "3": "A year of self-expression, creativity, and joy.",
+    "4": "A year of hard work, discipline, and laying solid foundations.",
+    "5": "A year of change, adventure, and unexpected opportunities.",
+    "6": "A year of responsibility, family, and service to others.",
+    "7": "A year of introspection, study, and spiritual growth.",
+    "8": "A year of ambition, material success, and achievement.",
+    "9": "A year of completion, release, and preparing for new cycles.",
+    "11": "A spiritually significant year, filled with inspiration and heightened intuition.",
+    "22": "A master year for building something of lasting significance."
+  },
+
+  "personal_month": {
+    "1": "A month to take initiative and begin something new.",
+    "2": "A month for diplomacy, patience, and relationships.",
+    "3": "A creative and expressive month, ideal for communication.",
+    "4": "A month of steady work, discipline, and order.",
+    "5": "A month of change, travel, and adventure.",
+    "6": "A nurturing month focused on family and responsibility.",
+    "7": "A reflective month of learning and contemplation.",
+    "8": "A month to pursue goals, business, and achievement.",
+    "9": "A month of endings, compassion, and generosity.",
+    "11": "A month of spiritual inspiration and heightened intuition.",
+    "22": "A month to make practical progress on big visions."
+  },
+
+  "personal_day": {
+    "1": "Take initiative today. Good for starting something new.",
+    "2": "Focus on relationships and diplomacy today.",
+    "3": "A creative, joyful day for self-expression.",
+    "4": "A disciplined, practical day to get things done.",
+    "5": "Expect change and variety today. Stay adaptable.",
+    "6": "A nurturing day to help family or loved ones.",
+    "7": "A reflective day for study or spiritual practice.",
+    "8": "A strong day for business, goals, and achievement.",
+    "9": "A compassionate day to give back and let go.",
+    "11": "An inspired day of intuition and spiritual awareness.",
+    "22": "A day for practical steps toward long-term goals."
+  }
 }
