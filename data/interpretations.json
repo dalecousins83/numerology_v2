@@ -137,5 +137,41 @@
     "9": "A compassionate day to give back and let go.",
     "11": "An inspired day of intuition and spiritual awareness.",
     "22": "A day for practical steps toward long-term goals."
+  },
+  
+  "personal_year": {
+    "1": "A year of new beginnings, independence, and initiative. Focus on self-development and setting bold goals.",
+    "2": "A year of patience, cooperation, and relationships. Partnerships and diplomacy bring growth.",
+    "3": "A creative and social year. Express yourself, network, and build joy into your routines.",
+    "4": "A hardworking and practical year. Build stable foundations, commit to discipline and structure.",
+    "5": "A year of change, freedom, and adventure. Stay flexible and embrace opportunities for growth.",
+    "6": "A year of responsibility, family, and service. Focus on love, home, and community harmony.",
+    "7": "A reflective and spiritual year. Prioritize study, solitude, and deeper self-understanding.",
+    "8": "A year of ambition, power, and material success. Focus on business, career, and financial mastery.",
+    "9": "A year of completion, release, and compassion. Let go of the old to prepare for new cycles."
+  },
+  
+  "personal_month": {
+    "1": "This month brings initiative and new projects. Take decisive action.",
+    "2": "This month emphasizes cooperation and patience. Let partnerships guide you.",
+    "3": "A month of creativity, joy, and communication. Share ideas openly.",
+    "4": "This month calls for hard work, structure, and persistence.",
+    "5": "A month of change and flexibility. Adapt to new circumstances.",
+    "6": "This month highlights family, responsibility, and harmony in relationships.",
+    "7": "A reflective month. Prioritize study, meditation, and personal insight.",
+    "8": "This month brings ambition, business focus, and material progress.",
+    "9": "A month of endings, compassion, and closure. Tie up loose ends."
+  },
+  
+  "personal_day": {
+    "1": "Take initiative today. Good for starting something new.",
+    "2": "Be diplomatic today. Cooperation and patience bring results.",
+    "3": "Express yourself today. Great for communication and creativity.",
+    "4": "Focus on work and structure today. Productivity is high.",
+    "5": "Stay flexible today. Embrace change and variety.",
+    "6": "Focus on family, service, and responsibility today.",
+    "7": "Seek solitude and insight today. Reflect before acting.",
+    "8": "Pursue goals and business matters today. Power and focus are strong.",
+    "9": "Release what no longer serves today. Compassion and closure are themes."
   }
 }
