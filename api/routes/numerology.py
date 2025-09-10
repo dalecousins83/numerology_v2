@@ -13,7 +13,7 @@ def personality(name: str, day: int, month: int, year: int):
     return {"chart": enriched}
 
 @router.get("/daily")
-def daily_report(name: str, dob: date, today: date | None = Query(default=None)):
+def daily_report(name: str, day: int, month: int, year: int, today: date | None = Query(default=None)):
     """
     Generate today's personal numerology report (year, month, day).
     - If 'today' is not provided, defaults to system date.
@@ -21,7 +21,7 @@ def daily_report(name: str, dob: date, today: date | None = Query(default=None))
     if today is None:
         today = datetime.today().date()
 
-    chart = build_chart(name, dob, today=today)
+    chart = build_chart(name, day, month, year, today=today)
     enriched = enrich_chart(chart)
 
     # Only return daily cycle numbers
