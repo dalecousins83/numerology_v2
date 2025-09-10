@@ -26,14 +26,14 @@ def build_chart(full_name: str, birth_day: int, birth_month: int, birth_year: in
     return chart
 
 
-def calculate_personal_cycles(dob: date, today: date) -> dict:
+def calculate_personal_cycles(day: int, month: int, year: int, today: date) -> dict:
     """
     Calculate personal year, month, and day numbers.
     """
     cycles = {}
 
     # --- Personal Year ---
-    personal_year_base = dob.month + dob.day + today.year
+    personal_year_base = month + day + today.year
     cycles["personal_year"] = reduce_number(personal_year_base)
 
     # --- Personal Month ---
