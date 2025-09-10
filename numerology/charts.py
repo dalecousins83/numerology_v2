@@ -1,16 +1,9 @@
 from .numbers import name_to_number, date_to_number, reduce_number
+from datetime import date
 
 def build_chart(full_name: str, birth_day: int, birth_month: int, birth_year: int) -> dict:
     """Generate full numerology chart based on Juno Jordan system."""
 
-
-
-    return chart
-
-from datetime import date
-from .numbers import reduce_number, date_to_number, name_to_number
-
-def build_chart(name: str, dob: date, today: date | None = None) -> dict:
     """
     Build a numerology chart for a given name and date of birth.
     Optionally include today's date for personal year/month/day cycles.
