@@ -21,7 +21,7 @@ def build_chart(full_name: str, birth_day: int, birth_month: int, birth_year: in
     
     # Optional cycles
     if today is not None:
-        chart.update(calculate_personal_cycles(dob, today))
+        chart.update(calculate_personal_cycles(day, month, year, today))
 
     return chart
 
